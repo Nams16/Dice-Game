@@ -27,4 +27,4 @@ else if (randomNumber2 > randomNumber1) {
 else {
   document.querySelector("h1").innerHTML = "Draw!";
 
-}
+
